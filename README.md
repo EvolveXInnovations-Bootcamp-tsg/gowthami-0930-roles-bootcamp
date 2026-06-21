@@ -1,2 +1,5 @@
-# gowthami-0930-roles-bootcamp
-Bootcamp Repository for Cloud Engineer (roles) - Student: gowthami-0930
+# Cloud Engineer Bootcamp
+
+Student: @gowthami-0930
+
+AI-Guided roadmap and instructions.
